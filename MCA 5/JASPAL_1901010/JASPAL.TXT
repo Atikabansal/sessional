@@ -51,7 +51,7 @@ SECOND XML CODE -
 
 FIRST JAVA CODE -
 
-package com.example.Jaspal;
+package com.example.code;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
 SECOND JAVA FILE -
 
-package com.example.Jaspal;
+package com.example.code;
 
 import androidx.appcompat.app.AppCompatActivity;
 
